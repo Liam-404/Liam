@@ -1,0 +1,48 @@
+.Mamuro Miyano {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%; 
+  object-fit: cover; 
+}
+
+  body {
+    background-image: url('https://images6.alphacoders.com/966/966952.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+
+  }
+
+  ul {
+    color: royalblue;
+    background-color: rgba(188, 44, 0, 0.7);
+  }
+  h1 {
+    color: black;
+    background-color: rgba(46, 45, 45, 0.7);
+    font-family: 'Montserrat', sans-serif;
+    padding: o;
+  }
+
+  h2 {
+    color: white;
+    background-color: rgba(46, 45, 45, 0.7);
+    padding: o;
+  }
+
+  p{
+    background-color: rgba(116, 77, 18, 0.7);
+    padding: o;
+
+  }
+
+  .custombackground {
+    color: white;
+    background-color: rgba(77, 2, 7, 0.7);
+    padding: o;
+
+  }
+
+  a {
+    color: indianred;
+  }
